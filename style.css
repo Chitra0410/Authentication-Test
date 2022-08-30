@@ -1,0 +1,27 @@
+.registration-title {
+    text-align: center;
+    border-radius: 80px;
+}
+
+.registration-form {
+    width: 800px;
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 10px 30px 30px;
+    border: 2px solid gainsboro;
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.1qc-hRBLRgBukfj7F1XNIgHaLH&pid=Api&P=0");
+    background-size: 1000px 1000px;
+}
+
+.registration-title,
+.button-wrapper {
+    text-align: center;
+}
+
+.registration-alert {
+    margin: 10px auto 20px;
+}
+
+.container {
+    margin-top: 50px;
+}
